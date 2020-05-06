@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mycontacts/static/css/main.d1b4513c.chunk.css",
+    "main.js": "/Mycontacts/static/js/main.90c39a67.chunk.js",
+    "main.js.map": "/Mycontacts/static/js/main.90c39a67.chunk.js.map",
+    "runtime-main.js": "/Mycontacts/static/js/runtime-main.22dcf33a.js",
+    "runtime-main.js.map": "/Mycontacts/static/js/runtime-main.22dcf33a.js.map",
+    "static/js/2.e48ee7e2.chunk.js": "/Mycontacts/static/js/2.e48ee7e2.chunk.js",
+    "static/js/2.e48ee7e2.chunk.js.map": "/Mycontacts/static/js/2.e48ee7e2.chunk.js.map",
+    "index.html": "/Mycontacts/index.html",
+    "precache-manifest.1365ed1d350ccd105552e22cb6602fba.js": "/Mycontacts/precache-manifest.1365ed1d350ccd105552e22cb6602fba.js",
+    "service-worker.js": "/Mycontacts/service-worker.js",
+    "static/css/main.d1b4513c.chunk.css.map": "/Mycontacts/static/css/main.d1b4513c.chunk.css.map",
+    "static/js/2.e48ee7e2.chunk.js.LICENSE.txt": "/Mycontacts/static/js/2.e48ee7e2.chunk.js.LICENSE.txt",
+    "static/media/abhishek.jpg": "/Mycontacts/static/media/abhishek.b4be7ff5.jpg",
+    "static/media/index.css": "/Mycontacts/static/media/search.0fc053ba.svg",
+    "static/media/hardik.JPG": "/Mycontacts/static/media/hardik.eb9e558d.JPG",
+    "static/media/harendra.jpg": "/Mycontacts/static/media/harendra.23e67b91.jpg",
+    "static/media/harendra2.JPG": "/Mycontacts/static/media/harendra2.e4f4c4e4.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22dcf33a.js",
+    "static/js/2.e48ee7e2.chunk.js",
+    "static/css/main.d1b4513c.chunk.css",
+    "static/js/main.90c39a67.chunk.js"
+  ]
+}
